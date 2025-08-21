@@ -39,6 +39,3 @@ The dataset contains critical variables including:
 - Scikit-learn for modeling and evaluation
 
 
-Let me know if you want me to create a combined README for both projects or generate a requirements.txt file.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/79476227/d8fd1d40-8c33-422a-a25d-adb86e1438b8/Task-2-House-Price-Prediction.ipynb
